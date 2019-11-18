@@ -1,6 +1,8 @@
 # pong
 
-This repo has all files for pong
+This repo has all files for pong.
+To stat pong run Menu.py
+
 controls:
 Right controls
 W = Up
